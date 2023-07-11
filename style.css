@@ -84,9 +84,9 @@
 }
 /* extra part */
 .extra-part{
+    margin: 70px 200px;
     display: flex;
     justify-content: space-around;
-    margin: 70px 200px;
     background-color: antiquewhite;
 }
 .extra-sec-part{
