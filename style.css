@@ -39,10 +39,13 @@
     font-weight: 300;
 }
 
+
+/* feature section start*/
+
 .boxs{
+    margin: 50px 200px;
     display: flex;
-    justify-content: space-between;
-    margin: 60px 120px;
+    justify-content: space-around;
     gap: 25px;
 }
 .boxa{
@@ -55,27 +58,30 @@
     width: 350px;
     height: 420px;
     border-radius: 300px 300px 0px 0px;
-    background-color:rgba(5, 151, 160, 0.15);
+    background-color: rgba(5, 151, 160, 0.15);
 }
 .boxc{
     width: 350px;
     height: 420px;
     border-radius: 300px 300px 0px 0px;
-    background-color:rgba(71, 125, 17, 0.15);
+    background-color: rgba(71, 125, 17, 0.15);
 }
-.boxa .boxone{
-    width:200px;
-    height: 300px;
-    padding: 120px 0px 0px 50px;
-}
-.boxb .boxtwo{
+.boxone{
     width: 200px;
     height: 300px;
-    padding: 120px 0px 0px 60px;
+    padding: 120px 30px 0px 20px;
 }
-.boxc .boxthree{
+
+.boxtwo{
     width: 200px;
     height: 300px;
     padding: 120px 0px 0px 50px;
 }
-/* feature section end */
+.boxthree{
+    width: 200px;
+    height: 300px;
+    padding: 120px 0px 0px 50px;
+}
+
+
+
