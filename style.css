@@ -82,6 +82,14 @@
     height: 300px;
     padding: 120px 0px 0px 50px;
 }
-
-
+/* extra part */
+.extra-part{
+    display: flex;
+    justify-content: space-around;
+    margin: 70px 200px;
+    background-color: antiquewhite;
+}
+.extra-sec-part{
+    padding-top: 20px;
+}
 
