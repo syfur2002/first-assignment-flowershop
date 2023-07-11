@@ -92,4 +92,21 @@
 .extra-sec-part{
     padding-top: 20px;
 }
+/* deal section */
+.hot-deal{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(195, 202, 202);
+}
+.deal-left{
+    margin: 100px 100px 100px 250px;
+}
+.deal-head{
+    font-size: 40px;
+    font-weight: 900;
+}
+.deal-image{
+    margin-right: 250px;
+    margin-top: 30px;
+}
 
